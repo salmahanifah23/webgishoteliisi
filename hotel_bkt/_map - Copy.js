@@ -1,5 +1,5 @@
         var map;
-        var server = "http://localhost/kelompok6iisi/hotel_bkt/";
+        var server = "https://salmatbwebgishoteliisi.herokuapp.com/hotel_bkt/";
         var cekRadiusStatus = "off";   //RADIUS
         var circles = []; //RADIUS
         var rad; //RADIUS
